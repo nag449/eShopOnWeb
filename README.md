@@ -1,4 +1,5 @@
 ![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnag449%2FeShopOnWeb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnag449%2FeShopOnWeb?ref=badge_shield)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
@@ -107,3 +108,7 @@ You can also run the applications by using the instructions located in their `Do
 We have some great contributions from the community, and while these aren't maintained by Microsoft we still want to highlight them.
 
 [eShopOnWeb VB.NET](https://github.com/VBAndCs/eShopOnWeb_VB.NET) by Mohammad Hamdy Ghanem
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnag449%2FeShopOnWeb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnag449%2FeShopOnWeb?ref=badge_large)
